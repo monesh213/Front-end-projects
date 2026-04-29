@@ -15,3 +15,20 @@ Footer text: Computer Generated Invoice
 🛠 Technologies Used
 HTML5
 CSS3
+
+  📝 My Resume Website
+
+This is a simple Resume Website created using HTML and CSS.
+It displays personal details, experience, education, skills, interests, and contact information in a structured format.
+
+📌 Project Features
+Resume displayed in a clean webpage format
+Navigation bar with section links
+Experience section displayed in a table
+Education section using definition list (dl)
+Skills section with nested list
+Interests section
+Contact section with email link
+Footer message
+🛠 Technologies Used
+HTML5
