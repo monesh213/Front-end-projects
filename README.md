@@ -2,7 +2,7 @@ Tax Invoice HTML Page
 
 This project is a simple Tax Invoice Web Page created using HTML and CSS. It displays a professional invoice format for a company named Apex Solutions, including party details, invoice number, GST details, and tax calculations (SGST & CGST).
 
-📌 Features
+ Features
 Clean invoice layout using HTML tables
 Company header with address and GSTIN
 Party details section
@@ -12,16 +12,16 @@ SGST and CGST calculation rows
 Grand total section
 Authorised signatory section
 Footer text: Computer Generated Invoice
-🛠 Technologies Used
+ Technologies Used
 HTML5
 CSS3
 
-  📝 My Resume Website
+   My Resume Website
 
 This is a simple Resume Website created using HTML and CSS.
 It displays personal details, experience, education, skills, interests, and contact information in a structured format.
 
-📌 Project Features
+ Project Features
 Resume displayed in a clean webpage format
 Navigation bar with section links
 Experience section displayed in a table
@@ -30,5 +30,29 @@ Skills section with nested list
 Interests section
 Contact section with email link
 Footer message
-🛠 Technologies Used
+ Technologies Used
 HTML5
+
+ My Page Website
+
+This is a simple responsive website built using HTML5 and CSS3.
+It contains a basic layout with a header, navigation menu, article content, sidebar (aside), and footer.
+
+ Features
+✅ Header section with website title
+✅ Navigation menu with links (Home, Services, About, Contact)
+✅ Article section with sample content
+✅ Sidebar section
+✅ Footer with a message and link
+✅ Responsive design using CSS Media Query
+On screens smaller than 640px, layout changes to mobile view
+
+ Technologies Used
+HTML5
+CSS3
+Media Queries (Responsive Design)
+
+
+
+
+
