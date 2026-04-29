@@ -2,7 +2,72 @@
 <html>
 <head>
     <meta charset="utf-8">
-<link rel="stylesheet" href="style13.css">
+<style>
+    header{
+    background-color: aqua;
+   width: 90%;
+   margin: auto;
+   font-size: 5vw;
+   text-align: center;
+}
+nav{
+    border: 1px solid black;
+    background-color: red;
+    float: left;
+}
+article{
+    width: 33%;
+    float: left;
+    border: 1px solid black;
+    background-color: white;
+    padding: 20px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    text-align: center;
+    list-style-type: none;
+    background-color: black;
+    color: white;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+li:hover{
+    background-color: red;
+}
+
+aside{
+    border: 1px solid black;
+    float: left;
+    width: 20%;
+    background-color:#ddd;
+}
+ 
+footer{
+    clear: both;
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+footer a{
+text-decoration: none;
+color: red;
+}
+
+@media (max-width:640px){
+    body{
+        background-color: royalblue;
+    }
+    article,aside{
+        width: 100%;
+    }
+}
+</style>
 <title>My Page</title>
 </head>
 <body>
